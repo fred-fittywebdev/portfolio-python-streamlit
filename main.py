@@ -27,7 +27,7 @@ PROJECTS = {
     "🛹 Element Sustainability": "https://www.elementbrand.fr/responsabilite/",
     "🧑‍🎓 Oh My Food - Study project with Css animations": "https://fred-fittywebdev.github.io/FredericGuerra_3_01112021.io/",
     "🧑‍🎓 Reservia- Study project for travel agency landing page": "https://fred-fittywebdev.github.io/FredericGuerra_2_17092021.io/",
-    "🧑‍🎓 Groupomania - study social network project": "https://github.com/fred-fittywebdev/groupomania",
+    "🧑‍🎓 Groupomania - study social network project": "https://github.com/fred-fittywebdev/groupomaniagit",
     "🖥️ Fred Guerra - Html, Css, and Js version of the portfolio.": "https://www.roxy.fr/maillot-bain-guide-coupes/",
 }
 
