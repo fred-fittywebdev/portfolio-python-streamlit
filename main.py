@@ -13,7 +13,7 @@ profile_pic = current_dir / "assets" / "profile-pic.png"
 PAGE_TITLE = "Fred Guerra"
 PAGE_ICON = ":wave"
 NAME = "Fred Guerra"
-DESCRIPTION = "Junior web developer, Ilove to bring designs to life by transforming them into accessible, modern and beautiful websites. No unnecessary stuff, UX stays the core of my process."
+DESCRIPTION = "Junior web developer, I bring designs to life by transforming them into accessible, modern and beautiful websites. No unnecessary stuff, UX stays the core of my process."
 EMAIL = "loulou.fg@gmail.com"
 SOCIAL_MEDIA = {
     "YouTube": "https://www.youtube.com/",
