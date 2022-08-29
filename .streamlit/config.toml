@@ -1,0 +1,7 @@
+[theme]
+# Background color
+backgroundColor = "#131415"
+# Accent color
+primaryColor = "#F9A119"
+# Text color
+textColor = "#fff"

@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Readex+Pro:wght@300;400;500;600;700&display=swap');
+* {
+	font-family: 'Readex Pro';
+	line-height: 1.5em;
+	box-sizing: border-box;
+}
+
+a {
+	text-decoration: none;
+	color: #f9a119 !important;
+	font-weight: 500;
+}
+
+a:hover {
+	text-decoration: none;
+	opacity: 0.7;
+}
+
+hr {
+	height: 1px;
+	margin-bottom: 5%;
+}
+
+/* remove streamlit default menu and footer */
+#MainMenu {
+	visibility: hidden;
+}
+
+footer {
+	visibility: hidden;
+}
+
+header {
+	visibility: hidden;
+}
