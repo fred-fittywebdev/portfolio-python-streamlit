@@ -90,6 +90,8 @@ I worked for the Boardriders company for a year on an apprenticeship contract. I
 - Integrated within an international team, work in collaboration with designers in France but also in the USA or in England.
 - Improvement and maintenance of the Boardriders website created with Wordpress.
 """)
+st.write("#")
+st.write("#")
 
 # JOB 2
 st.write("STUDENT | OPENCLASSROOMS")
@@ -103,6 +105,7 @@ Web Developer Training Program. What i learned ...
 - Build a secure API for a food review application.
 - Building a fully functionnal enterprise social network from sratch with React Framework.
 """)
+
 
 # --- PROJECT ---
 st.write("#")
